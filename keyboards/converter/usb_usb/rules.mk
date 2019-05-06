@@ -65,5 +65,3 @@ USB_HID_ENABLE   = yes
 CUSTOM_MATRIX    = yes
 
 SRC = custom_matrix.cpp
-
-TAP_DANCE_ENABLE = yes
