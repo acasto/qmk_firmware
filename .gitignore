@@ -54,6 +54,7 @@ util/Win_Check_Output.txt
 .vscode/tasks.json
 .vscode/last.sql
 .vscode/temp.sql
+.vscode/ipch/
 .stfolder
 .tags
 
@@ -70,3 +71,6 @@ secrets.tar
 id_rsa_*
 /.vs
 Win_Check_Output.txt
+
+# python things
+__pycache__
