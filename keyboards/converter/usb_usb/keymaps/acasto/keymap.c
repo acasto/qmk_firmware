@@ -21,7 +21,6 @@ enum custom_keycodes {
 	TD_CAPS_SHIFT = 0
 };
 
-
 const uint16_t keymaps[][MATRIX_ROWS][MATRIX_COLS] PROGMEM = {
     /* 0: plain Qwerty without layer switching
      *         ,---------------. ,---------------. ,---------------.
