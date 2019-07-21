@@ -65,4 +65,4 @@ SRC +=	matrix.c \
 		actuation_point.c \
 		i2c.c
 
-#MOUSEKEY_ENABLE = yes
+MOUSEKEY_ENABLE = yes

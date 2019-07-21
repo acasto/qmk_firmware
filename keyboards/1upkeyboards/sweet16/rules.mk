@@ -55,4 +55,4 @@ BACKLIGHT_ENABLE = no  # Enable keyboard backlight functionality
 AUDIO_ENABLE = no
 RGBLIGHT_ENABLE = yes
 EXTRAFLAGS += -flto
-TAP_DANCE_ENABLE = yes
+#TAP_DANCE_ENABLE = yes
